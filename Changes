@@ -1,4 +1,7 @@
 Revision history for Perl module Lingua::ZH::MacChinese::Traditional.
 
+0.02  Sat Oct 25 20:41:47 2003
+    - added addition.map, though no mapping is added.
+
 0.01  Sun Sep 28 11:26:01 2003
     - original version;

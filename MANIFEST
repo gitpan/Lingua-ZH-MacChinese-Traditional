@@ -4,6 +4,7 @@ README
 MANIFEST
 Traditional.pm
 Traditional.xs
+addition.map
 chintrad.map
 mkheader
 t/test.t
