@@ -1,0 +1,9 @@
+Changes
+Makefile.PL
+README
+MANIFEST
+Traditional.pm
+Traditional.xs
+chintrad.map
+mkheader
+t/test.t
