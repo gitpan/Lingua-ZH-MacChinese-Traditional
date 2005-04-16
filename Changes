@@ -1,5 +1,11 @@
 Revision history for Perl module Lingua::ZH::MacChinese::Traditional.
 
+0.03  Sat Apr 16 20:01:55 2005
+    - added mappings for 0x83-0x9F to C1 controls according to updated
+      CHINTRAD.TXT in www.unicode.org.
+    - added META.yml.
+    - added t/argu.t.
+
 0.02  Sat Oct 25 20:41:47 2003
     - added addition.map, though no mapping is added.
 
